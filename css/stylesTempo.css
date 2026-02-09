@@ -1,8 +1,7 @@
 body {
   min-height: 100vh;
   background: url("./grafitiEstiloHiphop.png");
-  margin-top: 10px;
-  font-family: Arial, sans-serif;
+   font-family: Arial, sans-serif;
   display: flex ;
   flex-direction: column  ;
 }
